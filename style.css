@@ -1,0 +1,7 @@
+.popa{position: absolute; top:0; left:0; width: 100%; height: auto; z-index: -100;}      
+.popa2::after{content:"ЖЫРНЫ"; display: block; background-color: blue; width: 280px; height: 2px;}   
+.popa2{font-size: 70px;}     
+.popa3::first-letter{content:"ЖЫРНЫ"; color: blue;text-shadow: 2px 2px 2px rgb(255, 4, 0); font-size: 100px;}                                   
+.popa3{font-size: 70px;}  
+.popa3::after{content:"ЖЫРНЫ"; display: block; background-color: blue; width: 280px; height: 2px;}   
+.popa3{font-size: 70px;}    
